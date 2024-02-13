@@ -152,11 +152,28 @@ nav {
 }
 .sd-1 {
     width: 100.5%;
-    background: linear-gradient(to left, #FBCFE9 0%, #D8B4FE 100%);
+    background: linear-gradient(to left, #fac9e6 0%, #d4aefc 100%);
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
 }
 .tx {
-    
+    background: -webkit-linear-gradient(0deg, #B11C67 0%, #4763e0 100%);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 .sd-1 a {
-    background-color: rgb(255, 81, 50);
+    background-color: rgb(248, 109, 88);
+    height: 37px;
+    padding: 0px 10px;
+    margin-top: 10px;
+}
+.sd-1 a:hover {
+    color: #FFFFFF;
+    background-color: #6511c5;
+}
+.sd-2 {
+    height: 405px;
+    width: 76.3%;;
+}
+.sd-2 img {
+    width: 65%;
 }
