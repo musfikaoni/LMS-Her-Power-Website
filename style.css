@@ -171,9 +171,24 @@ nav {
     background-color: #6511c5;
 }
 .sd-2 {
-    height: 405px;
-    width: 76.3%;;
+    width: 76.3%;
 }
-.sd-2 img {
-    width: 65%;
+.dr-img img {
+    width: 75%;
+}
+.dr-sec {
+    width: 50%;
+}
+.accordion {
+    width: 440%;
+    margin-left: -150px;
+}
+.accordion-item {
+    color: gray;
+    background-color: transparent;
+    border: 1px solid rgb(165, 212, 250);
+  }
+.accordion-button {
+    background-color: transparent;
+    height: 55px;
 }
