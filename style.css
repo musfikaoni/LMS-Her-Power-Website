@@ -149,7 +149,6 @@ nav {
 }
 /* card end */
 .sc-2 {
-    /* height: 500px; */
     width: 100%;
 }
 .sc-2sd {
@@ -218,6 +217,13 @@ nav {
     width: 160%;
     padding: 10px;
     
+}
+.dropdown-menu {
+    background: linear-gradient(to right, #FBCFE8 10%, #F4D0F1 90%);
+    color: gray;
+}
+.dd {
+    background: linear-gradient(to right, #F4D0F1 10%, #edd1fb 90%)!important;
 }
 /* First box end */
 .sc-3 {
@@ -425,7 +431,7 @@ nav {
     border-radius: 0px 0px 8px 8px;
     
 }
-.iiccc {
+.iiccc img{
     box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
     border-radius: 0px 0px 8px 8px;
 }
